@@ -22,10 +22,7 @@ function getMinJump(obstacles) {
         var choque = false;
 
         while (salto <= Math.max(...obstacles)) {
-            if (obstacles.includes(salto)) {
-                choque = true;
-                break;
-            }
+            if (obstacles.includes(salto)) choque = true;
             salto = salto + i;
         }
 
