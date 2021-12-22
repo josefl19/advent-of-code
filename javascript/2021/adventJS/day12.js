@@ -29,9 +29,7 @@ function getMinJump(obstacles) {
             salto = salto + i;
         }
 
-        if (!choque) {
-            return i;
-        }
+        if (!choque) return i;
     }
 }
 
