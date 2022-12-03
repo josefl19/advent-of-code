@@ -33,8 +33,8 @@ Archivo `day01.js`:
 | Factor | Obtenido | Observación |
 | ------ | ------ | ------ |
 | Puntos conseguidos | **131** |  |
-| Complejidad ciclomática | **3615 ops/s** | Más alto es mejor
-| Tiempo de ejecución | **1** | Más bajo es mejor
+| Tiempo de ejecución | **3615 ops/s** | Más alto es mejor
+| Complejidad ciclomática | **1** | Más bajo es mejor
 | Mantenibilidad | **159%** | Más alto es mejor
 
 &nbsp;
@@ -43,6 +43,6 @@ Archivo `day01_op2.js`:
 | Factor | Obtenido | Observación |
 | ------ | ------ | ------ |
 | Puntos conseguidos | **130** |  |
-| Complejidad ciclomática | **3603 ops/s** | Más alto es mejor
-| Tiempo de ejecución | **1** | Más bajo es mejor
+| Tiempo de ejecución | **3603 ops/s** | Más alto es mejor
+| Complejidad ciclomática | **1** | Más bajo es mejor
 | Mantenibilidad | **135%** | Más alto es mejor
