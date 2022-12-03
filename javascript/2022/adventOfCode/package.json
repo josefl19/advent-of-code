@@ -1,0 +1,14 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Soluciones a retos del Advent Of Code",
+  "main": "day01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josefl19",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
