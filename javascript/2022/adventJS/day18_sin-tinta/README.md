@@ -49,3 +49,11 @@ Archivo `day18_op2.js`:
 | Puntos conseguidos | **120** |  |
 | Tiempo de ejecución | **1061 ops/s** | Más alto es mejor
 | Complejidad cognitiva | **2** | Más bajo es mejor
+
+Archivo `day18_op3.js`:
+
+| Factor | Obtenido | Observación |
+| ------ | ------ | ------ |
+| Puntos conseguidos | **120** |  |
+| Tiempo de ejecución | **1022 ops/s** | Más alto es mejor
+| Complejidad cognitiva | **2** | Más bajo es mejor
