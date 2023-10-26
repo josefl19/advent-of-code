@@ -34,10 +34,18 @@ Archivo `day08.js`:
 | Tiempo de ejecución | **1702 ops/s** | Más alto es mejor
 | Complejidad cognitiva | **4** | Más bajo es mejor
 
-Archivo `day08.js`:
+Archivo `day08_op2.js`:
 
 | Factor | Obtenido | Observación |
 | ------ | ------ | ------ |
 | Puntos conseguidos | **10** |  |
 | Tiempo de ejecución | **2414 ops/s** | Más alto es mejor
 | Complejidad cognitiva | **13** | Más bajo es mejor
+
+Archivo `day08_op3.js`:
+
+| Factor | Obtenido | Observación |
+| ------ | ------ | ------ |
+| Puntos conseguidos | **40** |  |
+| Tiempo de ejecución | **1647 ops/s** | Más alto es mejor
+| Complejidad cognitiva | **4** | Más bajo es mejor
