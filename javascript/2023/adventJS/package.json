@@ -1,0 +1,25 @@
+{
+  "name": "adventjs-2023",
+  "version": "1.0.0",
+  "description": "\"Soluciones de retos del AdventJS by midudev\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "nodejs",
+    "adventJS",
+    "adventofcode"
+  ],
+  "author": "josefl19",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
