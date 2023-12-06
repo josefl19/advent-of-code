@@ -4,7 +4,8 @@
   "description": "\"Soluciones de retos del AdventJS by midudev\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/jest/bin/jest.js",
+    "test_day02": "node ./node_modules/jest/bin/jest.js -i test/day02.test.js"
   },
   "keywords": [
     "js",
