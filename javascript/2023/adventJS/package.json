@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "node ./node_modules/jest/bin/jest.js",
-    "test_day02": "node ./node_modules/jest/bin/jest.js -i test/day02.test.js"
+    "test_day02": "node ./node_modules/jest/bin/jest.js -i test/day02.test.js",
+    "test_day03": "node ./node_modules/jest/bin/jest.js -i test/day03.test.js"
   },
   "keywords": [
     "js",
