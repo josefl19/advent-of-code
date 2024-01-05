@@ -7,7 +7,10 @@
     "test": "node ./node_modules/jest/bin/jest.js",
     "test_day01": "node ./node_modules/jest/bin/jest.js -i test/day01.test.js",
     "test_day02": "node ./node_modules/jest/bin/jest.js -i test/day02.test.js",
-    "test_day03": "node ./node_modules/jest/bin/jest.js -i test/day03.test.js"
+    "test_day03": "node ./node_modules/jest/bin/jest.js -i test/day03.test.js",
+    "test_day04": "node ./node_modules/jest/bin/jest.js -i test/day04.test.js",
+    "test_day05": "node ./node_modules/jest/bin/jest.js -i test/day05.test.js",
+    "test_day23": "node ./node_modules/jest/bin/jest.js -i test/day23.test.js"
   },
   "keywords": [
     "js",
