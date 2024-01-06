@@ -10,6 +10,7 @@
     "test_day03": "node ./node_modules/jest/bin/jest.js -i test/day03.test.js",
     "test_day04": "node ./node_modules/jest/bin/jest.js -i test/day04.test.js",
     "test_day05": "node ./node_modules/jest/bin/jest.js -i test/day05.test.js",
+    "test_day06": "node ./node_modules/jest/bin/jest.js -i test/day06.test.js",
     "test_day23": "node ./node_modules/jest/bin/jest.js -i test/day23.test.js"
   },
   "keywords": [
